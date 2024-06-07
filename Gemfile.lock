@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    keinus.github.io (0.0.1)
+    just-the-docs (0.8.2)
       jekyll (>= 3.8.5)
       jekyll-include-cache
       jekyll-seo-tag (>= 2.0)
@@ -156,7 +156,7 @@ DEPENDENCIES
   html-proofer (~> 5.0)
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
-  keinus.github.io!
+  just-the-docs!
 
 BUNDLED WITH
    2.5.9

@@ -2,9 +2,9 @@
 layout: default
 title: Home
 nav_order: 1
-description: ""
+description: "Just the Docs"
 permalink: /
 ---
 
-# Home
-개인적으로 작성하는 기록물
+# Documentation
+개인적인 기록을 위한 블로그
