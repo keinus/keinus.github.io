@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 3(Routing, Path Parameter)
+nav_order: 3
+parent: fastapi-tutorial
+---
+                
+
 # Routing
 기본적으로 python 문법과 starlette의 기본 기능을 따라간다.
 또한, starlette 자체가 flask와 거의 비슷하게 구현했기 때문에 flask와 동작도 거의 동일하다고 생각하면 된다.

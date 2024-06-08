@@ -1,3 +1,11 @@
+---
+layout: default
+title: wsl2 ubuntu 20.04 distro에서 snap 사용
+nav_order: 1
+parent: ETC
+---
+                
+
 ### 문제점
 wsl2의 ubuntu 20.04에서 snap을 사용하면 아래와 같은 에러가 나옵니다.
 

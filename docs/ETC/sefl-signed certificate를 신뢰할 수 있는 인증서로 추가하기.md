@@ -1,3 +1,11 @@
+---
+layout: default
+title: sefl-signed certificate를 신뢰할 수 있는 인증서로 추가하기
+nav_order: 1
+parent: ETC
+---
+                
+
 https://rottk.tistory.com/entry/Self-signed-certificate-%EB%A5%BC-%EC%8B%A0%EB%A2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%A1%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0
 
 주로 사내망에서 ssl proxy를 써서 내부 사원의 id/pw를 빼내가고 있는 경우 https 사이트에서 인증 실패로 에러 메시지가 나온다.

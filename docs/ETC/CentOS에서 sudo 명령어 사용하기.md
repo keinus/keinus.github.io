@@ -1,3 +1,11 @@
+---
+layout: default
+title: CentOS에서 sudo 명령어 사용하기
+nav_order: 1
+parent: ETC
+---
+                
+
 CentOS에서 일반 유저는 권한을 받아야 한다.
 
 ```

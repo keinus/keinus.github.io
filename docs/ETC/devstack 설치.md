@@ -1,3 +1,11 @@
+---
+layout: default
+title: devstack 설치
+nav_order: 1
+parent: ETC
+---
+                
+
 https://naleejang.tistory.com/ 블로그 글 참조
 
 

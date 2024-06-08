@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 6(Model)
+nav_order: 6
+parent: fastapi-tutorial
+---
+                
+
 # Model
 모델 작성하는 방법을 알아보자.
 </br>

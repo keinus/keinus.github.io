@@ -1,3 +1,11 @@
+---
+layout: default
+title: orange pi 5 elasticsearch  kibana
+nav_order: 1
+parent: OrangePI5
+---
+                
+
 # Elasticsearch / Kibana with tls
 ```sh
 version: "2.2"

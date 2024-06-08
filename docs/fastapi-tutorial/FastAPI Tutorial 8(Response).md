@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 8(Response)
+nav_order: 8
+parent: fastapi-tutorial
+---
+                
+
 # Response 
 ## Response Model
 Response body에 들어갈 content를 Model로 지정하여 리턴할 수 있다.

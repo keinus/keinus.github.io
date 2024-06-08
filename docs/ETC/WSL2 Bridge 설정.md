@@ -1,3 +1,11 @@
+---
+layout: default
+title: WSL2 Bridge 설정
+nav_order: 1
+parent: ETC
+---
+                
+
 ## WSL2 Bridge 설정(Win11, WSL 0.66.2.0)
 ### 패키지 설치
 WSL 내에서,  

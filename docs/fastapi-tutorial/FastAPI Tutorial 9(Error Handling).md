@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 9(Error Handling)
+nav_order: 9
+parent: fastapi-tutorial
+---
+                
+
 # Handling Errors
 서비스에서 발생하는 에러나 request, response 시에 발생하는 에러 등을 처리할 수 있다.
 

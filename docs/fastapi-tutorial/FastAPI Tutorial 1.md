@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 1
+nav_order: 1
+parent: fastapi-tutorial
+---
+                
+
 # FastAPI Tutorial
 
 본 문서는 FastAPI 공식 문서의 정리본 입니다.

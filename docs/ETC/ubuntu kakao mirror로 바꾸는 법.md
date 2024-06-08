@@ -1,3 +1,11 @@
+---
+layout: default
+title: ubuntu kakao mirror로 바꾸는 법
+nav_order: 1
+parent: ETC
+---
+                
+
 ### apt 리포지토리 설정 열기
 
 ```sh

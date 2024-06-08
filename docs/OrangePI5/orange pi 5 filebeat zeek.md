@@ -1,3 +1,11 @@
+---
+layout: default
+title: orange pi 5 filebeat zeek
+nav_order: 1
+parent: OrangePI5
+---
+                
+
 # Run Filebeat on Docker for zeek
 파일 비트를 도커로 실행시키고 zeek 로그를 es로 전송하도록 한다.
 

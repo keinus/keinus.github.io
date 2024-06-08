@@ -1,3 +1,11 @@
+---
+layout: default
+title: wsl2 chrome 설치
+nav_order: 1
+parent: ETC
+---
+                
+
 ### 다운로드
 ```
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb

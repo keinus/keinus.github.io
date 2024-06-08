@@ -1,3 +1,11 @@
+---
+layout: default
+title: Orange Pi 5 
+nav_order: 1
+parent: OrangePI5
+---
+                
+
 # Orange Pi 5 설치
 
 ## 이미지 다운로드

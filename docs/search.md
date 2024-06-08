@@ -1,5 +1,13 @@
 ---
 layout: default
+title: search
+nav_order: 1
+parent: docs
+---
+                
+
+---
+layout: default
 title: Search
 nav_order: 7
 ---

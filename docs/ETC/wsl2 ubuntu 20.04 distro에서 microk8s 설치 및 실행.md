@@ -1,3 +1,11 @@
+---
+layout: default
+title: wsl2 ubuntu 20.04 distro에서 microk8s 설치 및 실행
+nav_order: 1
+parent: ETC
+---
+                
+
 ### 준비
 
 이전 글을 참고하여 wsl2에서 snap을 실행합니다.

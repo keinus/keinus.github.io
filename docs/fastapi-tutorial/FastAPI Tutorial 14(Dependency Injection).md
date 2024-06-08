@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 14(Dependency Injection)
+nav_order: 14
+parent: fastapi-tutorial
+---
+                
+
 ## Dependency Injection
 FastAPI는 프레임워크 자체에서 DI(Dependency Injection) 기능을 제공한다.  
 

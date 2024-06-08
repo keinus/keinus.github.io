@@ -1,3 +1,11 @@
+---
+layout: default
+title: Spring Security 10. Authentication
+nav_order: 1
+parent: spring-security
+---
+                
+
 # 10. Authentication
 ## 10.1 In-Memory Authentication
 우리는 이미 단일 사용자에 대해 인 메모리 인증을 구성하는 예를 보았습니다. 다음은 여러 사용자를 구성하는 예입니다.

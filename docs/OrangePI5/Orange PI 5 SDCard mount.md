@@ -1,3 +1,11 @@
+---
+layout: default
+title: Orange PI 5 SDCard mount
+nav_order: 1
+parent: OrangePI5
+---
+                
+
 # mount new sdcard
 새 SDCARD를 넣고 마운트할려고 할 때 아래와 같이 한다.
 

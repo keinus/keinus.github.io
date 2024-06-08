@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 10(ETC)
+nav_order: 10
+parent: fastapi-tutorial
+---
+                
+
 # Extras
 ## Extra Data Types
 

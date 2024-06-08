@@ -1,3 +1,11 @@
+---
+layout: default
+title: Spring Security 12. Oauth2
+nav_order: 1
+parent: spring-security
+---
+                
+
 # 12. OAuth2
 ## 12.1 OAuth 2.0 Login
 OAuth 2.0 로그인 기능은 사용자가 OAuth 2.0 제공자 (예 : GitHub) 또는 OpenID Connect 1.0 제공자 (예 : Google)에 등록된 계정을 사용하여 애플리케이션에 로그인할 수 있는 기능을 제공합니다. OAuth 2.0 로그인은 "Google로 로그인"또는 "GitHub로 로그인" 사용 사례를 구현합니다.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: opnfv 설치
+nav_order: 1
+parent: ETC
+---
+                
+
 https://makerj.tistory.com/291
 https://opnfv-compass4nfv.readthedocs.io/en/stable-gambia/release/installation/preconditions.html
 

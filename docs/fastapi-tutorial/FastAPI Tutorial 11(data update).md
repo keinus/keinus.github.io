@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 11(data update)
+nav_order: 11
+parent: fastapi-tutorial
+---
+                
+
 ## jsonable_encoder()
 
 jsonable_encoder() 함수를 통해 object가 json 형태로 변환될 수 있는지 확인할 수 있다.  

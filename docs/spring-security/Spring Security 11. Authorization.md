@@ -1,3 +1,11 @@
+---
+layout: default
+title: Spring Security 11. Authorization 
+nav_order: 1
+parent: spring-security
+---
+                
+
 # 11. Authorization
 Spring Security의 고급 권한 부여 기능은 가장 인기있는 이유 중 하나를 나타냅니다. Spring Security는 Spring Security에서 제공하는 인증 메커니즘 및 공급자를 사용하거나 컨테이너 기반 인증 또는 다른 비 Spring Security 인증 기능을 사용하는 등의 어떤 인증 방법을 선택하든 애플리케이션에서 일관되고 간단한 권한 부여 서비스를 사용할 수 있습니다. 
 이 부분에서는 Part I에서 소개 된 다양한 AbstractSecurityInterceptor 구현에 대해 살펴보고, 도메인 액세스 제어 목록을 사용하여 권한을 미세 조정하는 방법에 대해 알아 보겠습니다.

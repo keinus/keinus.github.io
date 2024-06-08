@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 5(Request Body)
+nav_order: 5
+parent: fastapi-tutorial
+---
+                
+
 # Request Body
 HTTP의 content 부분. http에서는 payload body라 한다.
 

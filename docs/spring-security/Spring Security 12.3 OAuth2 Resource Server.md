@@ -1,3 +1,11 @@
+---
+layout: default
+title: Spring Security 12.3 OAuth2 Resource Server
+nav_order: 1
+parent: spring-security
+---
+                
+
 ## 12.3 OAuth 2.0 Resource Server
 Spring Security는 두 가지 형태의 OAuth 2.0 베어러 토큰을 사용하여 엔드 포인트 보호를 지원합니다.
 

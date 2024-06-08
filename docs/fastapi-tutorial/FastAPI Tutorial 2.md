@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 2
+nav_order: 2
+parent: fastapi-tutorial
+---
+                
+
 ## 들어가기 전
 ### OpenAPI
 OpenAPI Specification(OAS)은 HTTP API를 JSON 또는 YAML을 통해 표준 인터페이스를 정의

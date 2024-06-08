@@ -1,3 +1,11 @@
+---
+layout: default
+title: Spring Security 09. Architecture and Implementation
+nav_order: 1
+parent: spring-security
+---
+                
+
 # 9. Architecture and Implementation
 ## 9.1 Technical Overview
 ### 9.1.1 Runtime Environment

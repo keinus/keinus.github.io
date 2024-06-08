@@ -1,3 +1,11 @@
+---
+layout: default
+title: Spring Security OAuth2 Server
+nav_order: 1
+parent: spring-security
+---
+                
+
 # 1. Authorization Server
 Spring Security OAuth2 Boot는 OAuth 2.0 인증 서버를 간단하게 구축할 수 있습니다.
 

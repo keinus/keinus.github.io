@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 13(SQLAlchemy)
+nav_order: 13
+parent: fastapi-tutorial
+---
+                
+
 ## SQLAlchemy
 python의 RDB를 위한 ORM 라이브러리(프레임워크?)  
 데이터베이스의 종류에 관계없이 코드 레벨의 호환성을 제공할 수 있다.(DB에 대한 접속 설정, 어댑터만 작성된다면 실제 로직 코드는 건드리지 않아도 된다.)  

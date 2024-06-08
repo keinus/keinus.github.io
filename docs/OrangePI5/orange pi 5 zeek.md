@@ -1,3 +1,11 @@
+---
+layout: default
+title: orange pi 5 zeek
+nav_order: 1
+parent: OrangePI5
+---
+                
+
 # Zeek 설치
 
 Zeek 기본 컨테이너는 전부 x86/amd64 아키텍처만 지원한다.  

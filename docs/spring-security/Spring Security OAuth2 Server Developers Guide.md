@@ -1,3 +1,11 @@
+---
+layout: default
+title: Spring Security OAuth2 Server Developers Guide
+nav_order: 1
+parent: spring-security
+---
+                
+
 # Introduction
 OAuth 2.0 지원을위한 사용 설명서입니다. OAuth 1.0의 경우 모든 것이 다르므로 사용 설명서를 참조하십시오.
 이 사용 설명서는 두 부분으로 나뉩니다. 첫 번째는 OAuth 2.0 provider 용이고, 두 번째는 OAuth 2.0 클라이언트 용입니다. 공급자와 클라이언트 모두에게 가장 좋은 샘플 코드 소스는 통합 테스트 및 샘플 앱입니다.

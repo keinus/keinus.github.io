@@ -1,3 +1,11 @@
+---
+layout: default
+title: microk8s에서 kubeflow 설치
+nav_order: 1
+parent: ETC
+---
+                
+
 https://charmed-kubeflow.io/docs/quickstart
 
 아래 명령으로 기본 애드온을 설치한다.

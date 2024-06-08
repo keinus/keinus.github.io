@@ -1,3 +1,11 @@
+---
+layout: default
+title: FastAPI Tutorial 4(Query Parameter)
+nav_order: 4
+parent: fastapi-tutorial
+---
+                
+
 # Query Parameter
 쿼리는 URL에서 "?" 뒤에 나오는 key-value 집합을 말한다.
 쿼리의 키와 값은 "="로 구분하고 각 키는 "&"로 구분한다.
