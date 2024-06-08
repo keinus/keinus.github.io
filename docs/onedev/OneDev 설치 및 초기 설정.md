@@ -79,7 +79,7 @@ import gitlab
 from git import Repo
 
 
-GITLAB_TOKEN = "<GITLAB_API_TOKEN>" # "glpat-F6YufVUeNkiPza7ytwN9"
+GITLAB_TOKEN = "<GITLAB_API_TOKEN>"
 HOST = '<GITLAB_HOST_IP:PORT>'
 username = "<GITLAB_ID>"
 password = "<GITLAB_PASSWORD>"
