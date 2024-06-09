@@ -2,7 +2,7 @@
 layout: default
 title: wsl2 chrome 설치
 nav_order: 1
-parent: ETC
+parent: WSL2
 ---
                 
 
