@@ -25,7 +25,7 @@ app = FastAPI()
 async def read_item(page: int = 0, count: int = 10):
     return {"page":page, "count":count}
 ```
-![27232-2022-4-1-21-48.png](images/27232-2022-4-1-21-48.png) 
+![27232-2022-4-1-21-48.png](../images/27232-2022-4-1-21-48.png) 
 
 - 매개변수에 작성하지 않은 키를 쿼리 파라미터에 입력했을 경우 무시한다.
 - 디폴트 값이 있을 경우 해당 쿼리를 넣지 않아도 된다.
@@ -106,7 +106,7 @@ None이외 string 값이나 int 값 등 다른 값을 지정해도 된다.
 ```
 q: Optional[str] = Query(..., max_length=50)
 ```
-![18178-2022-4-3-18-33.png](images/18178-2022-4-3-18-33.png)
+![18178-2022-4-3-18-33.png](../images/18178-2022-4-3-18-33.png)
 
 required로 변경된 것을 볼 수 있다.
 
@@ -126,7 +126,7 @@ async def read_items(q: List[str] = Query(["foo", "bar"])):
     return query_items
 ```
 
-![48534-2022-4-3-18-36.png](images/48534-2022-4-3-18-36.png)
+![48534-2022-4-3-18-36.png](../images/48534-2022-4-3-18-36.png)
 
 위와 같이 q에 여러 값을 지정하면 값을 overwrite하는게 아니라 리스트로 추가하여 넣는다.
 

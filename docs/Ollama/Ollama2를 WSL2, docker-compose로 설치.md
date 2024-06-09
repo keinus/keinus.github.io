@@ -66,15 +66,15 @@ volumes:
 
 ## 시작 후 적용된 화면
 아래는 docker compose로 구동한 결과이다.  
-<IP>:8080에서 접속하여 사용할 수 있다.  
+IP:8080에서 접속하여 사용할 수 있다.  
 
-![alt text](image.png)
+![alt text](../images/image.png)
 
 ## code completion
 visual studio code 플러그인 중 llama coder를 설치한다.  
 설정에서 위 docker로 설치한 ollama의 경로를 지정하면 자동완성이 된다.  
 
-![alt text](image-1.png)
+![alt text](../images/image-1.png)
 
 위 그림처럼 URL과 모델을 선택한다.  
 나는 13B 모델을 선택하여 사용 중이다.  
@@ -90,6 +90,3 @@ docker-compose를 사용할 수 있는 곳에서 사용할 수 있을 것 같다
 WSL2에서 구동하더라도 컨테이너를 실행하는 호스트의 GPU가 사용되기 때문에 같은 컴퓨터에서 구동하는 것을 권장한다.
 WSL2를 사용하지 않고 docker-compose로 구동하면 된다.
 아래는 WSL2에서 구동했을 때의 결과이다.
-<IP>:8080에서 접속하여 사용할 수 있다.
-
-![alt text](image2.png)

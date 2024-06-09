@@ -42,7 +42,7 @@ volumes:
 ## 초기 설정
 `http://<Server IP>:6610/~init`로 접속하면 아래와 같은 화면이 나온다.
 
-![alt text](images/image.png)
+![alt text](../images/image.png)
 
 적당히 입력해주자.  
 
@@ -50,11 +50,11 @@ volumes:
 
 다음으로 서버 URL을 입력하라는 아래와 같은 화면이 나온다.
 
-![alt text](images/image-1.png)
+![alt text](../images/image-1.png)
 
 IP 주소 또는 도메인 이름으로 입력해주자.  
 
-![alt text](images/image-2.png)
+![alt text](../images/image-2.png)
 
 설치가 끝났다.
 

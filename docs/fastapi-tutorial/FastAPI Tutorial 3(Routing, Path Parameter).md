@@ -142,7 +142,7 @@ app = FastAPI()
 async def read_user(file_path: str):
     return {"files": file_path}
 ```
-![3271-2022-4-1-21-24.png](images/3271-2022-4-1-21-24.png) 
+![3271-2022-4-1-21-24.png](../images/3271-2022-4-1-21-24.png) 
 
 
 path를 받기 위해 
@@ -162,7 +162,7 @@ app = FastAPI()
 async def read_user(file_path:str):
     return {"files": file_path}
 ```
-![25598-2022-4-1-21-26.png](images/25598-2022-4-1-21-26.png)
+![25598-2022-4-1-21-26.png](../images/25598-2022-4-1-21-26.png)
 
 200 OK로 정상적으로 리턴됨을 알 수 있다. 
 
