@@ -2,7 +2,7 @@
 layout: default
 title: Ollama2를 WSL2, docker-compose로 설치
 nav_order: 1
-parent: WSL2
+parent: Ollama
 ---
                 
 
